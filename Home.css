@@ -5,7 +5,7 @@
 .u-section-1 .u-image-1 {
   width: 361px;
   height: 361px;
-  background-image: url("images/352e8ddd-afd1-4b60-890e-beee60c6a207.png");
+  background-image: url("images/myAvatar1.png");
   background-position: 50% 50%;
   margin: 108px auto 0;
 }
@@ -299,7 +299,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 588px;
-  background-image: url("images/30d1dc79-b887-45e8-ba22-a7623600a437.png");
+  background-image: url("images/pinn-feature.png");
   background-position: 50% 50%;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
